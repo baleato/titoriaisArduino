@@ -4,4 +4,5 @@ Os valores que le, en realidade son voltaxes que compara coa voltaxe máxima do 
 Estes valores os imos ver no monitor serie, que se abre desde a lupiña que hai arriba á dereita no Arduino IDE.
 
 ## Retos:
-Pouco reto podemos poñer aquí.
+- Poderías combinar este exercicio co anterior, e facer que a velocidade do parpadeo fose controlada co potenciómetro?
+(pista: o delay toma o valorPote)
