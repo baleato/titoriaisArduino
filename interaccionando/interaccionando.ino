@@ -1,6 +1,10 @@
 /* Neste programa imos ver como relacionar unha entrada cunha saida.
 Isto nos vai permitir que Arduino execute accións en función de como
 sexan as entradas, o cal mola moito.
+Temos que conectar dous LEDs coa súa correspondente resistencia, 
+un verde ao pin 7 e un vermello ao pin 9. O potenciómetro o 
+coloco como no exercicio anterior, un extremo ao 5V, outro ao GND
+e a patilla central a A0.
 */
 
 
