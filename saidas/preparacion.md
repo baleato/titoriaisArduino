@@ -8,4 +8,5 @@ Xa fixemos parpadear o LED que o Arduino leva incorporado, pero se só puideramo
 
 ### Conexións:
 Conecta o circuito da seguinte maneira:
+![Image] (http://arduino.cc/en/uploads/Tutorial/simplefade_bb.png)
 

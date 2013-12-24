@@ -2,11 +2,14 @@
 Estes van ser titoriais en galego para impartir Arduino nas miñas clases, todavía en probas.
 
 ## Titoriais
-### 1 - blinkGal:
+### - blinkGal:
 facemos que o LED do Arduino acenda e apague alternativamente.
 
-### 2 - lecturas:
+### - Saidas:
+Imos saír do Arduino, controlamos a intensidade dun LED conectado a el.
+
+### - lecturas:
 Leemos unha entrada analóxica e vemos o seu valor.
 
-### 3 - Interaccionando:
+### - Interaccionando:
 Controlamos unha saída desde unha entrada.
