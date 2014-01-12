@@ -18,6 +18,7 @@ O que fai o sensor é darnos unha voltaxe de saída que varía en función da te
 ##Montaxe:
 Este é o esquema de conexión:
 ![Conexión con Arduino](https://lh6.googleusercontent.com/-RsfzgB4YwGk/TXoz9VYShII/AAAAAAAAAFk/KQ5fouPUASA/s1600/Untitled%2BSketch_bb2.png)
+
 Unha vez montado e subido o sketch, poderás ler a temperatura polo monitor serie (a lupiña de arriba á dereita no IDE).
 
 ##Reto:
