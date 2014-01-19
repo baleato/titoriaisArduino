@@ -1,5 +1,6 @@
 # Arduino en galego
-Estes van ser titoriais en galego para impartir Arduino nas miñas clases, todavía moi en probas.
+Estes eran un proxecto de facer titoriais na plataforma GitHub. Despois de trastear un tempo, vexo que este non é o formato axeitado para o que eu buscaba. Quedan aquí mentres preparo a transición a un modelo combinado entre a miña web e o gitHub para almacenar o código.
+Nestes titoriais imos entender que estamos a traballar coa máis común e básica das placas Arduino, o [UNO](http://arduino.cc/en/Main/ArduinoBoardUno "UNO"). Debes ter unha destas placas e tamén ter instalado no ordenador o entorno de programación, o [Arduino IDE](http://arduino.cc/en/Main/Software).
 
 ## Titoriais
 ### - [Blink](https://github.com/procastino/titoriaisArduino/tree/master/blinkGal):
