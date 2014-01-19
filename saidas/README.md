@@ -2,10 +2,10 @@
 Xa fixemos parpadear o LED que o Arduino leva incorporado, pero se só puideramos facer iso o único que teriamos sería unha máquina moi cara para acender e apagar un LED. Imos saír do propio Arduino, e empregalo para controlar cousas que están fóra del e conectadas ás súas saídas.
 Neste caso, imos controlar a intensidade dun LED vermello que está conectado ao pin 9 do Arduino. 
 ## Precisas:
-*Un LED vermello estándar
-*Unha resistencia de 220 ohmnios.
-*Unha placa de prototipado ou "Breadboard".
-*Cables de conexión para a breadboard.
+* Un LED vermello estándar
+* Unha resistencia de 220 ohmnios.
+* Unha placa de prototipado ou "Breadboard".
+* Cables de conexión para a breadboard.
 ## Conexións:
 Conecta o circuito da seguinte maneira:
 ![Image] (http://fritzing.org/media/fritzing-repo/projects/s/saidas/images/saidass.png)
