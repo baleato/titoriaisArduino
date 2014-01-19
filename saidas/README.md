@@ -14,6 +14,7 @@ Conecta o circuito da seguinte maneira:
 * Cárgao no Arduino.
 * Comproba o resultado.
 * Le os comentarios do código e tenta facer os retos. 
+
 ## Retos:
 * Proba a cambiar o intervalo de aumento de brillo para que aumente máis rapidamente.
 * Podes facer o reto anterior sen alterar o delay(30)?
