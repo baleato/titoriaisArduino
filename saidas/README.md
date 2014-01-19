@@ -10,10 +10,10 @@ Neste caso, imos controlar a intensidade dun LED vermello que está conectado ao
 Conecta o circuito da seguinte maneira:
 ![Image] (http://fritzing.org/media/fritzing-repo/projects/s/saidas/images/saidass.png)
 
-* Descarga o arquivo saidas.ino deste repositorio, e ábreo co Arduino IDE. 
+* Descarga o arquivo saidas.ino deste repositorio, e ábreo co Arduino IDE.
 * Cárgao no Arduino.
 * Comproba o resultado.
-* Le os comentarios do código e tenta facer os retos.
+* Le os comentarios do código e tenta facer os retos. 
 ## Retos:
 * Proba a cambiar o intervalo de aumento de brillo para que aumente máis rapidamente.
 * Podes facer o reto anterior sen alterar o delay(30)?
